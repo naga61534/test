@@ -32,6 +32,18 @@ performance.
 </details>
 
 <details>
+  <summary><strong>DevOps Engineer – SignalZero Technologies Pvt Ltd (January 2024 – Present)</strong></summary>
+  <ul>
+    <li><strong>Automation:</strong> Creation and maintenance of pipelines and environments (dev, test, demo).</li>
+    <li><strong>In-house Applications:</strong> Setup and maintenance of Rocket.Chat, Plane, Gitea, BookStack, Nextcloud, DNS, LDAP, Proxmox, WireGuard, Nexus.</li>
+    <li><strong>Backup Management:</strong> Automating backups, scheduling jobs in Airflow, cleaning, and archiving backups in S3.</li>
+    <li><strong>Monitoring:</strong> Server, application, and domain monitoring using Prometheus, Loki for logs, Grafana dashboards, and alerting with AlertManager.</li>
+    <li><strong>Documentation & Cost Optimization:</strong> Maintaining documentation in BookStack, optimizing cloud costs, and visualizing reports using Grafana and Excel.</li>
+  </ul>
+</details>
+
+
+<details>
   <summary><strong>System Administrator – SignalZero Technologies Pvt Ltd (August 2023 – December 2023)</strong></summary>
 
 - **System Maintenance:** Setup and management of systems for tracking and monitoring activities.
